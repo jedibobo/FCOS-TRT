@@ -1,4 +1,4 @@
-# FCOS-TRT
+# FCOS-TRT #TRT2021
 
 安装步骤参考FCOS的Github，Install.md。[FCOS/INSTALL.md at master · tianzhi0549/FCOS (github.com)](https://github.com/tianzhi0549/FCOS/blob/master/INSTALL.md) 注意pytorch的版本一定要是1.4.0的。
 
